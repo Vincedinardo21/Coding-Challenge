@@ -1,0 +1,55 @@
+.logos{
+  display: block;
+  width: 200px;
+  margin: auto;
+}
+
+.titolo{
+  color: #01DD01;
+  text-align: center;
+}
+
+nav{
+  background-color: #01DD01;
+  padding: 10px;
+}
+
+.container{
+  width: 800px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.7)
+}
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+section{
+  color: white;
+}
+
+span{
+  font-size: 20px;
+}
+
+#hr1{
+  border: 10px solid orange;
+  border-radius: 5px;
+  width: 30%;
+  margin-left: 0;
+}
+
+#hr2{
+  border: 10px solid #01DD01;
+  border-radius: 5px;
+  width: 50%;
+  margin-left: 0;
+}
+
+#hr3{
+  border: 10px solid red;
+  border-radius: 5px;
+  width: 10%;
+  margin-left: 0;
+}
